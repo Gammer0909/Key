@@ -1,0 +1,15 @@
+C:\Users\elija\OneDrive\Desktop\TestProj\bin\Debug\net6.0\TestProj.exe
+C:\Users\elija\OneDrive\Desktop\TestProj\bin\Debug\net6.0\TestProj.deps.json
+C:\Users\elija\OneDrive\Desktop\TestProj\bin\Debug\net6.0\TestProj.runtimeconfig.json
+C:\Users\elija\OneDrive\Desktop\TestProj\bin\Debug\net6.0\TestProj.dll
+C:\Users\elija\OneDrive\Desktop\TestProj\bin\Debug\net6.0\TestProj.pdb
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.csproj.AssemblyReference.cache
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfoInputs.cache
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.AssemblyInfo.cs
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.dll
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\refint\TestProj.dll
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.pdb
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\TestProj.genruntimeconfig.cache
+C:\Users\elija\OneDrive\Desktop\TestProj\obj\Debug\net6.0\ref\TestProj.dll
